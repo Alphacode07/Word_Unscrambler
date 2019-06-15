@@ -1,0 +1,1 @@
+This is a software written in python. This software consists of an algorithm, which when given an input of a list of letters, outputs all possible word combinations of those letters that are legal in the English language.
